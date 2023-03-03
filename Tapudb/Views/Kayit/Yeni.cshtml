@@ -1,0 +1,40 @@
+﻿@using Tapudb.Models
+@model KayitListViewModel
+@{
+    ViewBag.Title = "TapuForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("Kaydet", "Kayit", new { HttpMethod = "POST" }))
+{
+    <div class="form-group">
+
+        @Html.Label("Fiyat")
+        @Html.TextBoxFor(m => m.kayit.fiyat,new {@class="form-control"})
+    </div>
+    <div class="form-group">
+
+        @Html.Label("Alan Kişi")
+        @Html.DropDownListFor(m => m.kayit.alankisi, new SelectList(Model.kullanicilar, "Id", "Ad"), new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Veren Kişi")
+        @Html.DropDownListFor(m => m.kayit.verenkisi, new SelectList(Model.kullanicilar, "Id", "Ad"), new { @class = "form-control" })
+
+    </div>
+    <div class="form-group">
+        @Html.Label("Tapu Adresi")
+        @Html.DropDownListFor(m => m.kayit.tapuid, new SelectList(Model.tapular, "Id", "Adres"), new { @class = "form-control" })
+
+    </div>
+
+
+
+    @Html.HiddenFor(m=>m.kayit.Id)
+    <button type="submit" class="btn btn-success">Kaydet</button>
+
+}
+
+
+
+
+

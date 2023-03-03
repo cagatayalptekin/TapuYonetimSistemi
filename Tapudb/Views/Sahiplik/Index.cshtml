@@ -1,0 +1,38 @@
+﻿@using Tapudb.Models
+@model List<SahiplikViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table table-bordered" id="tblUrun">
+
+    <thead>
+        <tr>
+            <th>Tapunun Sahibi</th>
+            <th>Tapu Numarası</th>
+            <th>Tapu Adresi</th>
+            <th>Alış Tarihi</th>
+
+            
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.kullanici.Ad</td>
+                <td>@item.tapu.Id</td>
+                <td>@item.tapu.Adres</td>
+                <td>@item.AlisTarihi.ToString("yyyy dd MMM")</td>
+               
+
+
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<div id="urunListesi"></div>

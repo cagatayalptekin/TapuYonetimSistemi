@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tapudb
+build_property.RootNamespace = Tapudb
+build_property.ProjectDir = C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kayit/Eklenemedi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcRWtsZW5lbWVkaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kayit/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kayit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kayit/Ticaret.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcVGljYXJldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kayit/Yeni.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcWWVuaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kullanici/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kullanici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Kullanici/Yeni.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXFllbmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Sahiplik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FoaXBsaWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Sahiplik/SahipSayisi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FoaXBsaWtcU2FoaXBTYXlpc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Tapu/Eklenemedi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFwdVxFa2xlbmVtZWRpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Tapu/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFwdVxHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Tapu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFwdVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Tapu/Yeni.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFwdVxZZW5pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cagat/OneDrive - Yildiz Technical University/Masaüstü/G53-proje/Tapudb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mnzey2rxro

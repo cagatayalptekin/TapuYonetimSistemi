@@ -1,0 +1,84 @@
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\appsettings.json
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Tapudb.staticwebassets.runtime.json
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Tapudb.exe
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Tapudb.deps.json
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Tapudb.runtimeconfig.json
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Tapudb.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Tapudb.pdb
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Dapper.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Npgsql.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.csproj.AssemblyReference.cache
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.AssemblyInfoInputs.cache
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.AssemblyInfo.cs
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.csproj.CoreCompileInputs.cache
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.RazorAssemblyInfo.cache
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.RazorAssemblyInfo.cs
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\scopedcss\bundle\Tapudb.styles.css
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\scopedcss\projectbundle\Tapudb.bundle.scp.css
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.csproj.CopyComplete
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\refint\Tapudb.dll
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.pdb
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\Tapudb.genruntimeconfig.cache
+C:\Users\cagat\source\repos\Tapudb\Tapudb\obj\Debug\net6.0\ref\Tapudb.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\appsettings.json
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Tapudb.staticwebassets.runtime.json
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Tapudb.exe
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Tapudb.deps.json
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Tapudb.runtimeconfig.json
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Tapudb.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Tapudb.pdb
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Dapper.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Npgsql.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.csproj.AssemblyReference.cache
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.AssemblyInfoInputs.cache
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.AssemblyInfo.cs
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.csproj.CoreCompileInputs.cache
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.RazorAssemblyInfo.cache
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.RazorAssemblyInfo.cs
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\scopedcss\bundle\Tapudb.styles.css
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\scopedcss\projectbundle\Tapudb.bundle.scp.css
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.csproj.CopyComplete
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\refint\Tapudb.dll
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.pdb
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\Tapudb.genruntimeconfig.cache
+C:\Users\cagat\OneDrive - Yildiz Technical University\Masaüstü\G53-proje\Tapudb\obj\Debug\net6.0\ref\Tapudb.dll

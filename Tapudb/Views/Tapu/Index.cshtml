@@ -1,0 +1,47 @@
+﻿@using Tapudb.Models
+@model List<TapuViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a class="btn btn-success" href="/Tapu/Yeni">Yeni Tapu</a>
+<h2>Tapu Listesi</h2>
+@using (Html.BeginForm("FindByTapu", "Tapu"))
+{
+    <p>
+        Adrese göre bul: <input type="text" name="text">
+        <input type="submit" value="Search" />
+    </p>
+}
+
+
+<table class="table table-bordered" id="tblUrun">
+
+    <thead>
+        <tr>
+            <th>Tapu Numarası</th>
+            <th>Adres</th>
+            <th>Kayıt Tarihi</th>
+            <th>Tapu Kime Ait?</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tapu in Model)
+        {
+            <tr>
+                <td>@tapu.Id</td>
+                <td>@tapu.Adres</td>
+                <td>@tapu.KayitTarihi.ToString("yyyy dd MMM")</td>
+                <td>@tapu.Kullanici.Ad</td>
+                <td><a href="/Tapu/Guncelle/@tapu.Id">Guncelle</a></td>
+                <td><a href="/Tapu/Sil/@tapu.Id">Sil</a></td>
+               
+                
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<div id="urunListesi"></div>

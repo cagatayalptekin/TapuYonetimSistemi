@@ -1,0 +1,39 @@
+﻿@using Tapudb.Models
+@model List<KayitViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a class="btn btn-success" href="/Kayit/Yeni">Yeni Satış İşlemi</a>
+
+<table class="table table-bordered" id="tblUrun">
+
+    <thead>
+        <tr>
+            <th>Alan Kişi</th>
+            <th>Veren Kişi</th>
+            <th>Tapu Numarası</th>
+            <th>Tapu Fiyatı</th>
+            <th>Tapu Adresi</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Kullanici.Ad</td>
+                <td>@item.Kullanici2.Ad</td>
+                <td>@item.tapu.Id</td>
+                <td>@item.fiyat</td>
+                <td>@item.tapu.Adres</td>
+                <td><a href="/Kayit/Sil/@item.Id">Sil</a></td>
+
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<div id="urunListesi"></div>

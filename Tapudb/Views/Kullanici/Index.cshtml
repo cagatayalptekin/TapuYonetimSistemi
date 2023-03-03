@@ -1,0 +1,63 @@
+﻿@using Tapudb.Models
+@model List<KullaniciViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a class="btn btn-success" href="/Kullanici/Yeni">Yeni Kullanici</a>
+
+<table class="table table-bordered" id="tblUrun">
+    @using (Html.BeginForm("FindByName","Kullanici"))
+    {
+        <p>
+            Ada göre bul: <input type="text" name="text">
+            <input type="submit" value="Search" />
+        </p>
+    }
+    @using (Html.BeginForm("FindBySurname", "Kullanici"))
+    {
+        <p>
+            Soyada göre bul: <input type="text" name="text">
+            <input type="submit" value="Search" />
+        </p>
+    }
+    @using (Html.BeginForm("FindByMoney", "Kullanici"))
+    {
+        <p>
+            Paraya göre bul: <input type="text" name="text">
+            <input type="submit" value="Search" />
+        </p>
+    }
+   
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Para</th>
+           
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var kullanici in Model)
+        {
+            <tr>
+                <td>@kullanici.Id</td>
+                <td>@kullanici.Ad</td>
+                <td>@kullanici.Soyad</td>
+                <td>@kullanici.para</td>
+                
+                <td><a href="/Kullanici/Guncelle/@kullanici.Id">Guncelle</a></td>
+                <td><a href="/Kullanici/Sil/@kullanici.Id">Sil</a></td>
+                
+
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<div id="urunListesi"></div>

@@ -1,0 +1,35 @@
+﻿@using Tapudb.Models
+@model List<TapuViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-bordered" id="tblUrun">
+
+    <thead>
+        <tr>
+            <th>Kullanici</th>
+            
+
+            <th>Sahip Olduğu Tapu Sayısı</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Kullanici.Ad</td>
+                <td>@item.sayi</td>
+
+
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<div id="urunListesi"></div>

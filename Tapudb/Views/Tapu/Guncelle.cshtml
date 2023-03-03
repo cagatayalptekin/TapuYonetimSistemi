@@ -1,0 +1,35 @@
+﻿@using Tapudb.Models
+@model TapuListViewModel
+@{
+    ViewBag.Title = "TapuForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("Guncelle", "Tapu", new { HttpMethod = "POST" }))
+{
+    <div class="form-group">
+
+        @Html.LabelFor(m => m.Tapu.Adres)
+        @Html.TextBoxFor(m => m.Tapu.Adres,new {@class="form-control"})
+    </div>
+    <div class="form-group">
+
+        @Html.LabelFor(m => m.Tapu.KayitTarihi)
+        @Html.TextBoxFor(m => m.Tapu.KayitTarihi,"{0:d MMM yyyy}",new {@class="form-control",@type="date"})
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tapu.sahipId)
+        @Html.DropDownListFor(m => m.Tapu.sahipId, new SelectList(Model.Kullanicilar, "Id", "Ad"), new { @class = "form-control" })
+
+    </div>
+
+
+
+    @Html.HiddenFor(m=>m.Tapu.Id)
+    <button type="submit" class="btn btn-success">Kaydet</button>
+
+}
+
+
+
+
+
